@@ -4,81 +4,63 @@
   <img src="https://fiiuno.com/logo.png" width="140" alt="Fiiuno Logo">
 </p>
 
-# 👋 Welcome to Fiiuno
+# Financial decisions shouldn't feel overwhelming.
 
-### AI-Powered Financial Health Platform for Indians
-
-Helping individuals understand, improve, and achieve better financial well-being through Artificial Intelligence.
+### Fiiuno helps you understand your finances, identify what needs attention, and make smarter financial decisions with confidence.
 
 <p>
   <a href="https://fiiuno.com">
-    <img src="https://img.shields.io/badge/Website-fiiuno.com-2563EB?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Try%20Fiiuno-Visit%20Website-2563EB?style=for-the-badge" alt="Visit Website">
   </a>
-  <img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=for-the-badge" alt="AI Powered">
-  <img src="https://img.shields.io/badge/Built%20with-React%20%2B%20FastAPI-10B981?style=for-the-badge" alt="Built With">
 </p>
-
-[🌐 Website](https://fiiuno.com) •
-[📧 Contact](mailto:hello@fiiuno.com)
 
 </div>
 
 ---
 
-# 🚀 About Fiiuno
+## Why Fiiuno?
 
-Fiiuno is an AI-powered financial health platform built to help individuals understand, improve, and manage their financial well-being.
+Managing money today is complicated.
 
-Our platform combines intelligent financial analysis, AI-powered insights, and practical planning tools into one seamless experience—making financial planning accessible, actionable, and easy for everyone.
+People often struggle to answer simple questions like:
+
+- Am I financially healthy?
+- Am I saving enough?
+- Is my investment portfolio balanced?
+- Do I have the right insurance?
+- Am I on track for retirement?
+- Can I actually afford this loan?
+- What should I improve next?
+
+Fiiuno brings all of these answers together in one intelligent platform.
 
 ---
 
-# ✨ What You Can Do
+## What Fiiuno Helps You Do
 
-- 📊 Measure your Financial Health Score
-- 🤖 Get AI-powered financial insights
-- 💰 Analyze investments
-- 🛡️ Review insurance coverage
-- 🎯 Plan financial goals
+- 📊 Understand your Financial Health Score
+- 🤖 Receive personalized AI-powered insights
+- 💰 Evaluate investments and portfolios
+- 🛡 Review insurance coverage
+- 🎯 Plan and track financial goals
 - 📈 Prepare for retirement
-- 💳 Manage loans & EMI
-- 🧮 Use smart financial calculators
-- 📋 Track portfolio performance
-- 📚 Improve financial knowledge
+- 💳 Manage loans and EMIs
+- 🧮 Make informed financial decisions
 
 ---
 
-# 🛠 Technology Stack
+## Our Mission
 
-| Frontend | Backend | Database | Infrastructure |
-|-----------|----------|-----------|----------------|
-| React | FastAPI | PostgreSQL | Vercel |
-| TypeScript | Python | Supabase | Render |
-
----
-
-# 🌍 Our Mission
-
-To empower every Indian to make smarter financial decisions through AI-powered financial planning, intelligent insights, and accessible financial education.
-
----
-
-# 🔗 Quick Links
-
-🌐 **Website**  
-https://fiiuno.com
-
-📧 **Email**  
-hello@fiiuno.com
+To make professional-quality financial guidance simple, intelligent, and accessible for everyone.
 
 ---
 
 <div align="center">
 
-## 🇮🇳 Building India's Financial Future with AI
+**Helping millions of people build stronger financial futures.**
 
-**Making Financial Health Simple, Intelligent, and Accessible for Everyone.**
+🌐 https://fiiuno.com
 
-Made with ❤️ by the **Fiiuno Team**
+📧 hello@fiiuno.com
 
 </div>
