@@ -1,102 +1,138 @@
 <div align="center">
 
-<p>
-  <img src="https://fiiuno.com/logo.png" width="140" alt="Fiiuno Logo">
-</p>
+<img src="./banner.svg" alt="Fiiuno — AI Financial Agent" width="100%">
 
-# Financial guidance shouldn't be a luxury.
+<br>
 
-### Fiiuno is building an AI-powered financial intelligence platform that helps every Indian understand their financial health, identify risks, and make better financial decisions.
+<img src="https://fiiuno.com/logo.png" width="72" alt="Fiiuno Logo">
+
+# Fiiuno
+
+### Financial guidance shouldn't be a luxury.
+
+An AI financial agent that reviews your money like a personal advisor would — tracking your income, investments, debt, and goals, and telling you exactly what to fix next.
 
 <p>
   <a href="https://fiiuno.com">
     <img src="https://img.shields.io/badge/Try%20Fiiuno-Visit%20Website-2563EB?style=for-the-badge" alt="Visit Website">
   </a>
+  <a href="mailto:hello@fiiuno.com">
+    <img src="https://img.shields.io/badge/Contact-hello%40fiiuno.com-111827?style=for-the-badge" alt="Contact">
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Beta-8b5cf6?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-India-2fe6ff?style=flat-square&labelColor=0b0f1a">
+  <img src="https://img.shields.io/badge/No%20Commissions-Ever-22c55e?style=flat-square&labelColor=0b0f1a">
 </p>
 
 </div>
 
----
+<br>
 
-# Why We Started Fiiuno
+## Why We Started Fiiuno
 
-Managing money has become increasingly complex.
+Managing money has become increasingly complex. Today, people juggle salaries, investments, loans, insurance, taxes, and retirement planning — often without access to real financial guidance.
 
-Today, people juggle salaries, investments, loans, insurance, taxes, retirement planning, and dozens of financial decisions—often without access to professional guidance.
+Most finance apps just display balances. Most advisors are expensive or inaccessible. Most people are left to figure it out alone.
 
-Most financial apps simply display balances.
-
-Most advisors are expensive.
-
-Most people are left guessing.
-
-Questions like these remain unanswered:
+Questions like these usually go unanswered:
 
 - Am I financially healthy?
 - Am I saving enough every month?
-- Am I investing in the right places?
-- Is my insurance actually protecting me?
-- Am I paying more tax than necessary?
+- Is my money invested in the right places?
+- Is my insurance actually enough?
+- Am I paying more tax than I need to?
 - Will I have enough for retirement?
-- What should I improve first?
+- What should I fix first?
 
-Fiiuno exists to answer these questions with clarity.
+Fiiuno exists to answer these — clearly, and specific to your numbers, not generic advice.
 
-Instead of scattered tools and generic advice, we bring your complete financial picture together and transform it into personalized, actionable intelligence.
+<br>
 
----
+## What Fiiuno Does
 
-# What Fiiuno Does
+Fiiuno is an AI agent that sits on top of your financial life.
 
-Fiiuno combines AI with financial analysis to help users:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📊 Measure overall Financial Health
-- 🤖 Receive AI-powered financial insights
-- 💰 Analyze investments and portfolios
-- 🛡 Evaluate insurance coverage
-- 💳 Understand loan affordability
-- 🎯 Plan long-term financial goals
-- 📈 Prepare for retirement
-- 🧮 Use powerful financial planning tools
-- 📚 Build better financial habits over time
+**Financial Health Score**
+Reviews your income, spending, debt, and savings to score your overall financial health in one number you can track over time.
 
----
+</td>
+<td width="50%" valign="top">
 
-# Our Philosophy
+**Ask It Anything**
+Answers direct questions about your money — tax, SIPs, insurance, EMIs — using your actual numbers, not generic advice.
 
-We believe financial planning should be:
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Simple enough for everyone
-- Intelligent enough to be genuinely useful
-- Transparent and unbiased
-- Built around people—not financial products
+**Always-On Monitoring**
+Watches your finances continuously and surfaces what needs attention, automatically — no need to check in manually.
 
-We don't sell mutual funds.
+</td>
+<td width="50%" valign="top">
 
-We don't sell insurance.
+**Portfolio & Insurance Analysis**
+Breaks down your investments and coverage to find real gaps, not upsell opportunities.
 
-We don't earn commissions.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Our goal is simple:
+**Loan Affordability**
+Tells you what a loan will actually cost you before you commit — in plain numbers.
 
-**Help people make better financial decisions.**
+</td>
+<td width="50%" valign="top">
 
----
+**Goals & Retirement Planning**
+Helps you plan toward long-term goals and retirement with a realistic, personalized path.
 
-# Our Mission
+</td>
+</tr>
+</table>
 
-To make professional-quality financial guidance accessible to everyone through intelligent software.
+We're currently in beta, built first for individuals and families who want a clearer picture of their finances. As we grow, the agent's autonomous capabilities — proactively reaching out the moment something needs your attention — are rolling out to more users.
 
----
+<br>
+
+## Our Philosophy
+
+We believe financial guidance should be:
+
+- **Simple** enough for everyone
+- **Intelligent** enough to be genuinely useful
+- **Transparent** and unbiased
+- **Built around people** — not financial products
+
+We don't sell mutual funds. We don't sell insurance. We don't earn commissions.
+
+Our goal is simple: **help people make better financial decisions.**
+
+<br>
+
+## Our Mission
+
+To make financial guidance that actually understands your money accessible to everyone — starting with India.
+
+<br>
 
 <div align="center">
 
-### 🌏 Building the future of financial intelligence for India.
+---
 
-🌐 https://fiiuno.com
+### Building the future of financial intelligence for India.
 
-📧 hello@fiiuno.com
+🌐 [fiiuno.com](https://fiiuno.com) &nbsp;·&nbsp; 📧 [hello@fiiuno.com](mailto:hello@fiiuno.com)
 
-Made with ❤️ by the **Fiiuno Team**
+Made by the **Fiiuno Team**
 
 </div>
